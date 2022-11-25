@@ -59,7 +59,7 @@
         }
       },
       "description" : "Blockchair es el motor de búsqueda más privado para {blockchains}.",
-      "description_line2" : "Busca por  {transactions}, {addresses}, {blocks}, e incluso {embedded}.",
+      "description_line2" : "Busca por {transactions}, {addresses}, {blocks}, e incluso {embedded}.",
       "scope" : {
         "transactions" : "transacciones",
         "addresses" : "direcciones",
@@ -425,7 +425,7 @@
     "infinitable" : {
       "description" : {
         "bitcoin" : {
-          "blocks" : "Explora, ordena y filtra bloques del  blockchain Bitcoin (BTC) por altura, recompensa, minero y más",
+          "blocks" : "Explora, ordena y filtra bloques del blockchain Bitcoin (BTC) por altura, recompensa, minero y más",
           "transactions" : "Explora, ordena y filtra transacciones del blockchain Bitcoin (BTC) por ID (hash), valor, tamaño, tasa y más",
           "outputs" : "Explora, ordena y filtra las salidas del blockchain Bitcoin (BTC) por valor, emisor, receptor, direcciones, obtén el conjunto UTXO y más",
           "mempool" : {
@@ -449,7 +449,7 @@
             "outputs" : "Explora salidas no confirmadas en el mempool Bitcoin Cash (BCH)"
           }},
         "bitcoin-sv" : {
-          "blocks" : "Explora, ordena y filtra bloques del  blockchain Bitcoin SV (BSV) por altura, recompensa, minero y más",
+          "blocks" : "Explora, ordena y filtra bloques del blockchain Bitcoin SV (BSV) por altura, recompensa, minero y más",
           "transactions" : "Explorar, ordenar y filtrar transacciones del blockchain Bitcoin SV (BSV) por ID (hash), tasa, tamaño y más",
           "outputs" : "Explora, ordena y filtra salidas del blockchain Bitcoin SV (BSV) por valor, receptor (dirección), obtén el conjunto UTXO y más",
           "mempool" : {
@@ -457,7 +457,7 @@
             "outputs" : "Explora salidas no confirmadas en el mempool Bitcoin SV (BSV)"
           }},
         "dogecoin" : {
-          "blocks" : "Explora, ordena y filtra bloques del  blockchain Dogecoin (DOGE) por altura, recompensa, minero y más",
+          "blocks" : "Explora, ordena y filtra bloques del blockchain Dogecoin (DOGE) por altura, recompensa, minero y más",
           "transactions" : "Explora, ordena y filtra transacciones del blockchain Dogecoin (DOGE) por ID (hash), valor, tamaño, tasa y más",
           "outputs" : "Explora, ordena y filtra salidas del blockchain Dogecoin (DOGE) por valor, emisor, receptor, direcciones, obtén el conjunto UTXO y más",
           "mempool" : {
@@ -501,7 +501,7 @@
         },
         "mixin" : {
           "snapshots" : "Explora y organiza instantáneas del blockchain Mixin (XIN) por tolopología (altura)",
-          "mintings" : "Explora  los mintings (recompensas) de los nodos kernel Mixin (XIN) por instantáneas",
+          "mintings" : "Explora los mintings (recompensas) de los nodos kernel Mixin (XIN) por instantáneas",
           "nodes" : "Explora los nodos kernel Mixin (XIN). Cada nodo necesita prometer 10.000 XIN, por lo que 50 nodos kernel pueden ser encontrados",
           "graph" : "Explora el DAG Mixin (XIN). Gráficos pueden ser utilizados para construir registros que eviten la necesidad de POW y bloques"
         },
@@ -517,7 +517,7 @@
         "no_results" : "Sin resultados 😕",
         "no_more_results" : "Sin más resultados 👐",
         "explore_list" : "Explorar esta lista ({difference} filas más)",
-        "load_more" : "Cargar más  ({difference} resultados más)",
+        "load_more" : "Cargar más ({difference} resultados más)",
         "show_next" : "Mostrar los siguientes {limit} elementos (quedan {difference} resultados)"
       },
       "bitcoin" : {
@@ -1602,7 +1602,7 @@
           "closed_at" : "Cerrado en",
           "transaction_count" : "Cant. de transacciones",
           "successful" : "Exitosa: {transaction_count} ",
-          "failed" : "Fallidas:  {transaction_count}",
+          "failed" : "Fallidas: {transaction_count}",
           "operation_count" : "Cant. de operaciones",
           "fee_pool" : "Tasa del pool",
           "base_fee" : "Tasa base",
@@ -2994,7 +2994,7 @@
     "title" : "Herramientas",
     "release-monitor" : {
       "title" : "Monitor de lanzamientos",
-      "description" : "Acompaña las últimas versiones de los clientes de criptomonedas:  Bitcoin Core, Geth, rippled, Bitcoin ABC, y otros",
+      "description" : "Acompaña las últimas versiones de los clientes de criptomonedas: Bitcoin Core, Geth, rippled, Bitcoin ABC, y otros",
       "button" : "Únete a nuestro canal Telegram para recibir actualizaciones",
       "version" : "Versión",
       "time" : "Tiempo",
